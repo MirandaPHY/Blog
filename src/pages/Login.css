@@ -1,0 +1,27 @@
+.form {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #5f0606;
+}
+
+.titulo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container-secundario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p a {
+    color: rgb(26, 154, 58);
+    text-decoration: none;
+}
+
+.container-secundario p a:hover {
+    color: #000;
+}
